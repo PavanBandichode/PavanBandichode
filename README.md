@@ -1,7 +1,5 @@
 ### Hi there 👋
-Hi 
-wave.gif
- , I'm Rahul , a Full Stack Developer
+
 <!--
 **PavanBandichode/PavanBandichode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
